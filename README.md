@@ -10,6 +10,7 @@ Welcome to my contribution log for **GirlScript Summer of Code 2024**. Below is 
 - [TravelGrid](#travelgrid)
 - [SkyWatch Remote](#skywatch-remote)
 - [AnimateItNow](#animateitnow)
+- [Project-Vault](#animateitnow)
 
 ---
 
@@ -34,14 +35,14 @@ Welcome to my contribution log for **GirlScript Summer of Code 2024**. Below is 
 > An AI-powered travel planning application.
 
 **Key Features Contributed:**
-- TravelGrid Review Summarizer
-- AI Travel Recommendation Engine
+- AI-powered hotel/flight review summarizer using Gemini API
 - PDF/Excel Trip Export
+- PR toggle feature on contributors page 
 
 **My Pull Requests:**
-- [PR #4 - AI travel recommender](https://github.com/owner/repo/pull/4)
-- [PR #5 - Add PDF/Excel export feature](https://github.com/owner/repo/pull/5)
-- [PR #6 - Summarizer component using Gemini API](https://github.com/owner/repo/pull/6)
+- [PR #4 - AI-powered hotel/flight review summarizer](https://github.com/Adarsh-Chaubey03/TravelGrid/pull/498)
+- [PR #5 - Add PDF/Excel export feature](https://github.com/Adarsh-Chaubey03/TravelGrid/pull/428)
+- [PR #6 - PR toggle feature on contributors page ](https://github.com/Adarsh-Chaubey03/TravelGrid/pull/431)
 
 ---
 
@@ -51,11 +52,11 @@ Welcome to my contribution log for **GirlScript Summer of Code 2024**. Below is 
 
 **Key Features Contributed:**
 - Daily flight summary dashboard
-- Real-time alert module
+- Added contact form and save responses to temp_DB
 
 **My Pull Requests:**
 - [PR #7 - Build flight summary dashboard](https://github.com/owner/repo/pull/7)
-- [PR #8 - Integrate real-time alerts](https://github.com/owner/repo/pull/8)
+- [PR #8 - Add contact form and save responses to temp_DB](https://github.com/Dnyaneshpise/skywatch_alerts/pull/33)
 
 ---
 
@@ -64,17 +65,25 @@ Welcome to my contribution log for **GirlScript Summer of Code 2024**. Below is 
 > A visual animation prototyping tool for designers.
 
 **Key Features Contributed:**
-- Loader customizer
-- Speed, size, and color sliders with preview
-- One-click HTML/CSS export
+- Loader customizer Speed, size, and color sliders with preview and Customizable Animated Loaders with Code Export Functionality
+- added Search Functionality in Template Gallery
 
 **My Pull Requests:**
-- [PR #9 - Add loader preview tool](https://github.com/owner/repo/pull/9)
-- [PR #10 - Add export to HTML/CSS](https://github.com/owner/repo/pull/10)
+- [PR #9 - Added Customizable Animated Loaders with Code Export Functionality](https://github.com/itsAnimation/AnimateItNow/pull/368)
+- [PR #10 - added Search Functionality in Template Gallery](https://github.com/itsAnimation/AnimateItNow/pull/376)
+
+---
+## 🎨 Project-Vault
+
+> A visual animation prototyping tool for designers.
+
+**Key Features Contributed:**
+- Fix Contact Form Submission & Improve UI/UX
+
+
+**My Pull Requests:**
+- [PR #11 Fix Contact Form Submission & Improve UI/UX](https://github.com/pavitraag/Project-Vault/pull/175)
 
 ---
 
-## 📄 How to Use
-
-You can add this file as a public repo (e.g. `gssoc-contributions`) and link it directly in your resume like:
 
