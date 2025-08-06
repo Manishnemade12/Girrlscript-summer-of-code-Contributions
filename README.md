@@ -1,6 +1,6 @@
 # 🌸 GirlScript Summer of Code 2024 - Contributions
 
-Welcome to my contribution log for **GirlScript Summer of Code 2024**. Below is a list of the projects I actively contributed to, along with the pull requests I raised.
+Welcome to my contribution log for **GirlScript Summer of Code 2025**. Below is a list of the projects I actively contributed to, along with the pull requests I raised.
 
 ---
 
