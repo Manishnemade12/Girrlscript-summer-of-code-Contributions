@@ -23,7 +23,7 @@ Welcome to my contribution log for **GirlScript Summer of Code 2024**. Below is 
 - Hugman mini-game
 - Personalized diet planner using Gemini API
 
-**My Pull Requests:**
+**My Accepted Pull  Requests:**
 - [PR #1 - Add Gemini-based diet planner](https://github.com/owner/repo/pull/1)
 - [PR #2 - Implement global chat cache](https://github.com/owner/repo/pull/2)
 - [PR #3 - Add Hugman mini-game UI](https://github.com/owner/repo/pull/3)
@@ -39,7 +39,7 @@ Welcome to my contribution log for **GirlScript Summer of Code 2024**. Below is 
 - PDF/Excel Trip Export
 - PR toggle feature on contributors page 
 
-**My Pull Requests:**
+**My Accepted Pull  Requests:**
 - [PR #4 - AI-powered hotel/flight review summarizer](https://github.com/Adarsh-Chaubey03/TravelGrid/pull/498)
 - [PR #5 - Add PDF/Excel export feature](https://github.com/Adarsh-Chaubey03/TravelGrid/pull/428)
 - [PR #6 - PR toggle feature on contributors page ](https://github.com/Adarsh-Chaubey03/TravelGrid/pull/431)
@@ -54,7 +54,7 @@ Welcome to my contribution log for **GirlScript Summer of Code 2024**. Below is 
 - Daily flight summary dashboard
 - Added contact form and save responses to temp_DB
 
-**My Pull Requests:**
+**My Accepted Pull  Requests:**
 - [PR #7 - Build flight summary dashboard](https://github.com/owner/repo/pull/7)
 - [PR #8 - Add contact form and save responses to temp_DB](https://github.com/Dnyaneshpise/skywatch_alerts/pull/33)
 
@@ -68,7 +68,7 @@ Welcome to my contribution log for **GirlScript Summer of Code 2024**. Below is 
 - Loader customizer Speed, size, and color sliders with preview and Customizable Animated Loaders with Code Export Functionality
 - added Search Functionality in Template Gallery
 
-**My Pull Requests:**
+**My Accepted Pull  Requests:**
 - [PR #9 - Added Customizable Animated Loaders with Code Export Functionality](https://github.com/itsAnimation/AnimateItNow/pull/368)
 - [PR #10 - added Search Functionality in Template Gallery](https://github.com/itsAnimation/AnimateItNow/pull/376)
 
@@ -81,7 +81,7 @@ Welcome to my contribution log for **GirlScript Summer of Code 2024**. Below is 
 - Fix Contact Form Submission & Improve UI/UX
 
 
-**My Pull Requests:**
+**My Accepted Pull  Requests:**
 - [PR #11 Fix Contact Form Submission & Improve UI/UX](https://github.com/pavitraag/Project-Vault/pull/175)
 
 ---
