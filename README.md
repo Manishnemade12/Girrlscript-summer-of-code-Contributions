@@ -46,7 +46,7 @@ Welcome to my contribution log for **GirlScript Summer of Code 2025**. Below is 
 
 ---
 
-## ✈️ SkyWatch Remote
+## ✈️ SkyWatch
 
 > Real-time flight and alert monitoring dashboard.
 
